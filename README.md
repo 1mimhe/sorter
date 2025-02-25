@@ -18,11 +18,11 @@ git clone https://github.com/your-username/sorter
 ```bash
 npm install
 ```
-4. Run the project (It will run index.ts file, you should change it):
+4. Run the project (It will run index.ts file, includes an example, you should change it):
 ```bash
 npm start
 ```
 
 ## Example
 
-The example is in ‍‍‍‍‍‍`index.ts`, You can see its results wuth `npm start` command (to run the project).
+The example is in ‍‍‍‍‍‍`index.ts`, You can see its results with `npm start` command (to run the project).

@@ -12,7 +12,7 @@ git clone https://github.com/1mimhe/sorter
 ```
 2. Navigate to the project directory:
 ```bash
-git clone https://github.com/your-username/sorter-mini-project.git
+git clone https://github.com/your-username/sorter
 ```
 3. Install dependencies:
 ```bash
